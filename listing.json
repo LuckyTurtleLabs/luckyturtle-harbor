@@ -1,0 +1,44 @@
+{
+  "name": "LuckyTurtle Harbor",
+  "website": "https://luckyturtle.io",
+  "type": "solo",
+  "fee": 0.5,
+  "coins": [
+    {
+      "symbol": "DGB",
+      "name": "DigiByte",
+      "algorithm": "SHA256d",
+      "stratum": [
+        "stratum+tcp://luckyturtle.io:4033",
+        "stratum+tcp://luckyturtle.io:4035"
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "algorithm": "SHA256d",
+      "stratum": [
+        "stratum+tcp://luckyturtle.io:4333",
+        "stratum+tcp://luckyturtle.io:4335"
+      ]
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "algorithm": "SHA256d",
+      "stratum": [
+        "stratum+tcp://luckyturtle.io:6033",
+        "stratum+tcp://luckyturtle.io:6035"
+      ]
+    },
+    {
+      "symbol": "BTCS",
+      "name": "Bitcoin Silver",
+      "algorithm": "SHA256d",
+      "stratum": [
+        "stratum+tcp://luckyturtle.io:7033",
+        "stratum+tcp://luckyturtle.io:7035"
+      ]
+    }
+  ]
+}

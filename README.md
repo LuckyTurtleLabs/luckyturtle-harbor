@@ -81,3 +81,11 @@ https://luckyturtle.io/api/stats
 ## 🚀 Status
 
 Active and accepting miners.
+
+---
+
+## 📄 Additional Info
+
+- Pool summary: [pools.md](pools.md)  
+- Connection guide: [connect.md](connect.md)  
+- Listing data: [listing.json](listing.json)
